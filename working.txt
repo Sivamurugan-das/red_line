@@ -1,0 +1,6 @@
+pymupdf
+pandas
+streamlit
+pdfminer.six
+fontstyle
+openpyxl
